@@ -1,0 +1,111 @@
+N 1.Imolation grendade; similar to incen grenade but rather then burning the ground it ignites players(like the flare gun) for X sec.
+
+N 2.Box a manhacks: A box that is droped, it slowly spawns X Manhacks, or until destroyed.
+
+N 3.Advance desquiser desquises as another person.
+
+Y 4.Sticky grenade, works similarly to the stickybomb from SSB.
+
+M 5.(Incert name here):Ar2 that causes blindness (like flash nade) for x sec when hit.
+
+N 6.A gun that after killing people spawns a zombie(or other npc) at there courpse possibly even destroying the corpse like a how the flaregun can
+
+Y 7. Chlorine gas nade. Green smoke nade that hurts people while they are in the radius of it including the person who throws it
+
+N 8. A gun that when either killing people or dealing damage has the owner gain x life
+
+N 9.(A knife equivalent for D) a gun, that has infinite ammo but when targeting a Inno or D kills the user, and when targeting a T kills the targer.
+
+Y M  10. A item that D’s can use that heals x life instantly rather then the Health station that heals 1 life at a time and is one use
+
+N 11.A sniper that doesn’t deal much damage if any but when hitting the target it makes them start shooting, (it registers as the user’s damage to prevent karma loss)
+
+Y 12.Blood bag: allows T’s to give each other their blood (health)
+
+Y 13.Random button: gives two random weapons for the price of one credit( it gives them an advantage of 2 weapons rather then one but forces them to get outside of their comfort zone and play a way that they are probably not used too(only implement when we have a lot custom stuff)
+
+Y 14.Spike armor: doesn’t prevent damage but instead deals x/y amount of the damge delt to the owner back at the person who shot it but doesn’t reduce it.
+
+N 15.Voodoo doll:similar to spike armor it deals damge when people attack you but rather it is like the dequiser in the sense you target someone and when you are delt damage they are delt x percent of it
+
+Y M 16.Druged knife. (doesn’t deal damage but when it hits someone it makes everyone they see appear dequised and makes their color on screen slowly change.
+
+N 17.Super Jihad. Like a normal jihad but deals in a much larger bast radius maybe like ½ the radious of a c4 but it takes time to prepare and makes you red
+
+Traitor items
+
+Equipment
+
+Y The Pact: drains your life after you buy it constantly, when you kill someone it gives you a damage modifier that increases your damage and the rate in which it drains your life but also when you get a kill it refills you health. Desc: you sold your soul to the Devil, was it worth it only time will tell.
+
+Y Stalking radar:instead of finding everyone every 30sec you see the constant location of one person, you can not buy this and normal radar the target of it is changable. If your target Dies it picks a new target for you but you can still manually change it.
+
+Y preperation bomb:when you die you will blow up, but you have a chance to blow up at any moment.
+
+N teleport ver2: instead of the normal teleporter you cannot set a location but instead you swap the location with a random player, it can be fellow traitors also so be warned.
+
+N Dequiser machine: it is placed and is very fragile but will randomly make random people dequised
+
+Y Defib: revives player but has chance to kill the user
+
+Y Chaos machine: it gives the whole map a Red feel from the portal thing from HL2 its makes everyone get a multiplier for dealing damage
+
+Y Bayonet:it modifys the primary weapon you have equiped, you are no longer able to scope in but it replaces the scope in with a deadly melee attack
+
+N The Cursed skull: If anyone looks directly at it, it attaches to the persons head and slowly drains their health, it can attach to multiple peoples heads in a given game. its a zombies head.
+
+N Blood lust:forces everyone to shoot for X sec doesnt not effect the karma of the people. Desc: they never know there lusts untell its too late.
+
+N I cant think of a name for this:whenever you are delt damage the aposer who damaged you is delt the same damage.
+
+M Rag:you can clean off Dna but other then that its a empty slot for T weapon and it makes a distinct sound.
+
+Y The Bloody Mary: A weapon that on hit causes a bleed on them that slowly drains there health it also causes their screen to go red and drip with blood
+
+Y Blade of shadow: right click blinks you to where you are looking at and makes you temperaily invisible and increases your movement speed for 15 sec or untell you switch weapons/attack with it, it also drains some of your life on use, it is used as a tempary desquise while activated. and when you blink it shows smoke from where you came from and where you went a purple destinct smoke.
+
+Y soul exhanger:A sniper rifle that is purple when you shoot someone you die but become the person who you shot but if you miss you still die.
+
+N posion/clorine grenade: a smoke grenade that does green smoke and posions people who are exposed to it, a Deep light green almost a lime color.
+
+Y Sticky Grenade: it sticks to anyone who walks over it before it explodes or whoever it lands on it can change to another person if they touch eachother.
+
+N The sacrifice: a T comits suiside but deals 25 damge to EVERYONE other then Ts but the Ts look damaged.
+
+N The Sharks lust: a gun that does a multiplier while in water and a seperate multiplier if the enemy is in water and the multipliers stack. its does much less damage without the multipliers.
+
+N Cursed Awp:Instant kill but costs *20 health.
+
+N A brick in the wall: basicly a throwable knfie that is only throwable its has a more dramatic ark, instead of being able to melee if it is goes through multiple targets it will kill them both, holds more Dna cannot be picked up.
+
+Detective items
+
+Equipment:
+
+Y radar the damned: you can only buy Radar of the damned or the normal radar, it instead every minute will give you the location of all the bodies.
+
+Tools
+
+Y Heath pack: alternative to the station because you can heal yourself and others but the disadvantage is your not holding a weapon while healing but the advantage is mobility it also has a more limited amount of heals.
+
+Y Radio blocker: temperaily blocks all communication including with fellow Ts.
+Weapons
+
+Y Healing grenade: a pink color but light pink it sets up a temperary aura that is the radius of smoke grenade and is based off smoke for how it works but lasts longer.
+
+Normal items
+
+
+
+
+Both T and D
+
+Equipment
+N Hermes boots: You now can fly by activating it like a dequiser it makes you very fast but is hard to control prevents fall damge but you can be delt damage by running into things to fast and there would be a key to run.
+Tools
+
+Weapons
+
+Y Flash Nade:self explanitory.
+
+N Stasis grenade, a dstinct blue grenade that freezes people when it blows up, it doesnt do damage but also temperaily prevents the frozen people from moving/ shooting/ or any actions really but prevents them from taking damage also.
