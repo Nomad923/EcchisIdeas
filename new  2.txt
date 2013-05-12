@@ -70,7 +70,7 @@ N posion/clorine grenade: a smoke grenade that does green smoke and posions peop
 
 Y Sticky Grenade: it sticks to anyone who walks over it before it explodes or whoever it lands on it can change to another person if they touch eachother.
 
-N The sacrifice: a T comits suiside but deals 25 damge to EVERYONE other then Ts but the Ts look damaged.
+Y The sacrifice: a T comits suiside but deals 25 damge to EVERYONE other then Ts but the Ts look damaged.
 
 N The Sharks lust: a gun that does a multiplier while in water and a seperate multiplier if the enemy is in water and the multipliers stack. its does much less damage without the multipliers.
 
